@@ -8,7 +8,7 @@ Clone the Repository and run
 
 
 ```
-git clone https://github.com/kirixenyt/anime-api.git
+git clone https://github.com/zeyrishop/gogo-api.git
 cd anime-api
 npm install 
 ```
